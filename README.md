@@ -1,5 +1,5 @@
 # courseradeeplearning
-Programming Assignment for Coursera Deep Learning by Andrew Ng 
+Programming Assignment for [Coursera Deep Learning](https://www.coursera.org/specializations/deep-learning) by [Andrew Ng](http://www.andrewng.org/) 
 
 
 It would not be able to run as this repo does not include the dependencies
